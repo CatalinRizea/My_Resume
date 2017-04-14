@@ -2,31 +2,26 @@
 
 ### Education
 
-Faculty of Automatic Control and Computers
+## Faculty of Automatic Control and Computers
+-First Year 9.52
+-Second Year 9.62(First Semester)
 
-```markdown
-Syntax highlighted code block
+## Highschool
 
-# Header 1
-## Header 2
-### Header 3
+Tudor Vianu National College of Computer Science
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Projects and Afiliations
 
-**Bold** and _Italic_ and `Code` text
+## HBFS Robotics
 
-[Link](url) and ![Image](src)
-```
+## Microsoft Innovation Center
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Innovation Labs 2017
 
-### Jekyll Themes
+## English Communication Session 2016
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CatalinRizea/My_Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
