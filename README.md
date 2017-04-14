@@ -1,6 +1,6 @@
 ## Hello! I am Catalin and this is my resume :)
 
-### Education
+## Education
 
 # Faculty of Automatic Control and Computers
 
@@ -8,9 +8,9 @@
 
 ### Second Year 9.62(First Semester)
 
-# Highschool
+## Highschool
 
-Tudor Vianu National College of Computer Science
+### Tudor Vianu National College of Computer Science
 
 
 ### Projects and Afiliations
