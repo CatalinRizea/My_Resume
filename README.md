@@ -2,24 +2,24 @@
 
 ### Education
 
-## Faculty of Automatic Control and Computers
+# Faculty of Automatic Control and Computers
 -First Year 9.52
 -Second Year 9.62(First Semester)
 
-## Highschool
+# Highschool
 
 Tudor Vianu National College of Computer Science
 
 
 ### Projects and Afiliations
 
-## HBFS Robotics
+# HBFS Robotics
 
-## Microsoft Innovation Center
+# Microsoft Innovation Center
 
-## Innovation Labs 2017
+# Innovation Labs 2017
 
-## English Communication Session 2016
+# English Communication Session 2016
 
 
 
