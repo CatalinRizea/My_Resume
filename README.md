@@ -4,9 +4,9 @@
 
 # Faculty of Automatic Control and Computers
 
-###First Year 9.52
+### First Year 9.52
 
-###Second Year 9.62(First Semester)
+### Second Year 9.62(First Semester)
 
 # Highschool
 
