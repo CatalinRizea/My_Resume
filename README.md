@@ -10,7 +10,7 @@
 
 # Highschool
 
-### Tudor Vianu National College of Computer Science
+# Tudor Vianu National College of Computer Science
 
 ### Projects and Afiliations
 
