@@ -31,3 +31,17 @@ Second Year 9.62 (First Semester)
 ### Alternate History
 
 ### SoloLearn
+
+# Favorite Courses
+
+### Discrete Event Systems
+
+### OOP
+
+### Computer Programming
+
+### Numerical Methods
+
+### Operating Systems
+
+### Digital Design
