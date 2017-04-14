@@ -22,3 +22,12 @@
 
 # Soft Skills Academy 4
 
+## Resources
+
+# The Prince by Niccolo Machiavelli
+ 
+# TedeD
+
+# Alternate History
+
+# SoloLearn
