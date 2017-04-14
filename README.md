@@ -6,7 +6,7 @@
 
 ### First Year 9.52
 
-### Second Year 9.62(First Semester)
+### Second Year 9.62 (First Semester)
 
 # Tudor Vianu National College of Computer Science
 
@@ -20,4 +20,5 @@
 
 # English Communication Session 2016
 
+# Soft Skills Academy 4
 
