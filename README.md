@@ -8,10 +8,9 @@
 
 ### Second Year 9.62(First Semester)
 
-## Highschool
+# Highschool
 
 ### Tudor Vianu National College of Computer Science
-
 
 ### Projects and Afiliations
 
