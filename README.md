@@ -1,33 +1,32 @@
 ## Hello! I am Catalin and this is my resume :)
 
-## Education
+# Education
 
-# Faculty of Automatic Control and Computers
+### Faculty of Automatic Control and Computers
 
-### First Year 9.52
+First Year 9.52
+Second Year 9.62 (First Semester)
 
-### Second Year 9.62 (First Semester)
+### Tudor Vianu National College of Computer Science
 
-# Tudor Vianu National College of Computer Science
+# Projects and Afiliations
 
-### Projects and Afiliations
+### HBFS Robotics
 
-# HBFS Robotics
+### Microsoft Innovation Center
 
-# Microsoft Innovation Center
+### Innovation Labs 2017
 
-# Innovation Labs 2017
+### English Communication Session 2016
 
-# English Communication Session 2016
+### Soft Skills Academy 4
 
-# Soft Skills Academy 4
+# Resources
 
-## Resources
-
-# The Prince by Niccolo Machiavelli
+### The Prince by Niccolo Machiavelli
  
-# TedeD
+### TedeD
 
-# Alternate History
+### Alternate History
 
-# SoloLearn
+### SoloLearn
